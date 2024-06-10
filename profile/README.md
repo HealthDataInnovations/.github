@@ -14,8 +14,9 @@ Na HealthData Innovations, oferecemos uma gama completa de serviços e soluçõe
 
 - **Análise de Dados de Saúde**: Utilizamos técnicas avançadas de análise de dados para extrair insights valiosos que ajudam na tomada de decisões informadas.
 - **Desenvolvimento de Modelos de IA**: Criamos modelos de inteligência artificial personalizados que otimizam processos e melhoram a precisão das previsões em saúde.
-- **Soluções Web e Mobile**: Desenvolvemos aplicações web e mobile robustas e intuitivas, focadas em cálculos e orçamentos, atendendo às demandas específicas do setor de saúde.
+- **Soluções Web e Mobile**: Desenvolvemos aplicações web e mobile robustas e intuitivas, focadas em promover a saúde digital e a transformação digital no setor de saúde. Nossas soluções inovadoras atendem às diversas necessidades do setor, desde a gestão de informações até a melhoria da experiência do usuário, colocando o usuário como protagonista.
 - **Tecnologias Disruptivas**: Investimos em tecnologias disruptivas que têm o potencial de transformar o setor de saúde, trazendo inovação e eficiência.
+
 
 ## Nosso Projeto com o Ministério da Saúde
 
