@@ -27,6 +27,13 @@ Um dos nossos principais projetos é o desenvolvimento de uma aplicação web pa
 - **Expertise**: Nossa equipe é composta por especialistas em análise de dados, inteligência artificial e desenvolvimento de software, com ampla experiência em projetos de saúde.
 - **Resultados**: Focamos em entregar soluções que não apenas atendem, mas superam as expectativas de nossos clientes, melhorando a eficiência e os resultados de saúde.
 
+## Mensagem da Logo
+
+A logo da **HealthData Innovations** apresenta um símbolo em forma de coração estilizado, incorporando um gráfico de barras no interior. As cores predominantes são azul e verde, simbolizando confiança e saúde. O design é moderno e limpo, refletindo a fusão entre os elementos de saúde (coração) e dados (gráfico).
+
+**Mensagem**: A logo da **HealthData Innovations** transmite a integração harmoniosa entre saúde e tecnologia de dados. O coração estilizado representa o foco central na saúde e bem-estar, enquanto o gráfico de barras dentro do coração destaca a importância da análise de dados para otimizar processos e melhorar resultados no setor de saúde. As cores azul e verde reforçam a mensagem de confiança, inovação e compromisso com a saúde. Este design reflete a missão da empresa de transformar dados de saúde em soluções tecnológicas avançadas e inovadoras.
+
+
 ## Entre em Contato
 
 Estamos prontos para transformar seus desafios em soluções inovadoras. Entre em contato conosco para saber como a HealthData Innovations pode ajudar sua organização a alcançar novos patamares de eficiência e inovação no setor de saúde.
