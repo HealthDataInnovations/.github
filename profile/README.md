@@ -29,8 +29,6 @@ Um dos nossos principais projetos é o desenvolvimento de uma aplicação web pa
 
 ## Mensagem da Logo
 
-A logo da **eHealthData Innovations** apresenta um símbolo em forma de coração estilizado, incorporando um gráfico de barras no interior. As cores predominantes são azul e verde, simbolizando confiança e saúde. O design é moderno e limpo, refletindo a fusão entre os elementos de saúde (coração) e dados (gráfico).
-
 **Mensagem**: A logo da **eHealthData Innovations** transmite a integração harmoniosa entre saúde e tecnologia de dados. O coração estilizado representa o foco central na saúde e bem-estar, enquanto o gráfico de barras dentro do coração destaca a importância da análise de dados para otimizar processos e melhorar resultados no setor de saúde. As cores azul e verde reforçam a mensagem de confiança, inovação e compromisso com a saúde. Este design reflete a missão da empresa de transformar dados de saúde em soluções tecnológicas avançadas e inovadoras.
 
 ## Entre em Contato
